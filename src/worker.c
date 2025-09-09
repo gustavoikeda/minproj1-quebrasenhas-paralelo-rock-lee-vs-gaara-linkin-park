@@ -20,7 +20,7 @@
  */
 
 #define RESULT_FILE "password_found.txt"
-#define PROGRESS_INTERVAL 100000  // Reportar progresso a cada N senhas
+#define PROGRESS_INTERVAL 100000  // Reportar progresso a cada N senhass
 
 /**
  * Incrementa uma senha para a próxima na ordem lexicográfica (aaa -> aab -> aac...)
